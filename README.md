@@ -1,4 +1,4 @@
-# generator-jeet
+# Front End Generator w/ Handlebars, Stylus, Jeet & GSAP
 
 [Yeoman](http://yeoman.io) generator for [Jeet Grid System](http://jeet.gs/).
 
