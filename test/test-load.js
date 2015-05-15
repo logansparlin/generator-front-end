@@ -2,6 +2,6 @@
 'use strict';
 var assert = require('assert');
 
-describe('jeet generator', function() {
+describe('front end generator', function() {
 
 });

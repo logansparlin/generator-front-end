@@ -3,6 +3,6 @@
 var path = require('path');
 var helpers = require('yeoman-generator').test;
 
-describe('jeet generator', function() {
+describe('front end generator', function() {
 
 });
