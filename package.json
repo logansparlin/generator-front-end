@@ -1,5 +1,5 @@
 {
-  "name": "generator-front-end",
+  "name": "generator-logan-spa",
   "version": "0.0.1",
   "description": "Yeoman generator for Front End applications using jeet, stylus, and handlebars. Fork of Julian Ćwirko's generator-jeet.",
   "license": "MIT",

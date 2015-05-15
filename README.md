@@ -1,16 +1,17 @@
 # Front End Generator w/ Handlebars, Stylus, Jeet & GSAP
 
-[Yeoman](http://yeoman.io) generator for [Jeet Grid System](http://jeet.gs/).
+[Yeoman](http://yeoman.io) generator for [Jeet Grid System](http://jeet.gs/) & [Handlebars](http://handlebarsjs.com/).
 
-##### Blazing fast Stylus version with Autoprefixer and Rupture :) .. Scss version only on Libsass (for now) ..
-
-## Yo Jeet!
+## Yo Jeet & Handlebars!
 * Stylus version with Autoprefixer and Rupture
 * Sass or Stylus compiling
 * Publishing to dist directory
 * Server with LiveReload (127.0.0.1:9000)
 * Bower install
 * JSHint
+* Handlebars Templating
+* GSAP Animations
+* Modernizr
 
 ## Getting Started
 
@@ -18,16 +19,22 @@
 $ npm install -g yo
 ```
 
-To install generator-jeet from npm, run:
+<!-- To install generator-jeet from npm, run:
 
 ```
-$ npm install -g generator-jeet
+$ npm install -g generator-logan-spa
+``` -->
+
+To install generator-logan-spa locally
+
+```
+$ npm link
 ```
 
 Finally, initiate the generator:
 
 ```
-$ yo jeet
+$ yo logan-spa
 ```
 
 ### Usage
@@ -102,7 +109,7 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
 
-#### Contact
+<!-- #### Contact
 
 [@juliancwirko](https://twitter.com/JulianCwirko) | [julian.cwirko@gmail.com](mailto:julian.cwirko@gmail.com)
 
@@ -128,4 +135,4 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 
 ##### 0.0.1 (27.04.2014)
 
-- init
+- init -->
