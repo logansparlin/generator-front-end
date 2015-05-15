@@ -1,16 +1,16 @@
 {
-  "name": "generator-jeet",
-  "version": "0.1.2",
-  "description": "Yeoman generator for Jeet Grid System",
+  "name": "generator-front-end",
+  "version": "0.0.1",
+  "description": "Yeoman generator for Front End applications using jeet, stylus, and handlebars. Fork of Julian Ćwirko's generator-jeet",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "juliancwirko/generator-jeet",
   "homepage": "https://github.com/juliancwirko/generator-jeet",
   "bugs": "https://github.com/juliancwirko/generator-jeet/issues",
   "author": {
-    "name": "Julian",
-    "email": "Ćwirko",
-    "url": "https://github.com/juliancwirko"
+    "name": "Logan",
+    "email": "Sparlin",
+    "url": "https://github.com/logansparlin"
   },
   "engines": {
     "node": ">=0.10.0"
@@ -22,7 +22,7 @@
     "app"
   ],
   "keywords": [
-    "yeoman-generator", "jeet", "grid system"
+    "yeoman-generator", "jeet", "grid system", "handlebars", "gsap", "modernizr"
   ],
   "dependencies": {
     "yeoman-generator": "~0.18.9",
